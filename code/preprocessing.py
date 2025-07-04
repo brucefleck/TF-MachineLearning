@@ -30,3 +30,6 @@ full_df = full_df[cols]
 # Mostramos un resumen
 print("Dataset unificado con forma:", full_df.shape)
 print(full_df.head())
+
+# finalmente, guarda el dataframe unificado en un nuevo archivo CSV
+full_df.to_csv('cryptos_unificado.csv', index=False)
