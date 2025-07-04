@@ -30,3 +30,5 @@ full_df = full_df[cols]
 # Mostramos un resumen
 print("Dataset unificado con forma:", full_df.shape)
 print(full_df.head())
+
+full_df.to_csv('cryptos_unificado.csv', index=False)
