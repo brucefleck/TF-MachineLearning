@@ -14,4 +14,6 @@ El archivo `cryptos_unificado.csv` contiene la data de todos los archivos antier
 
 El archivo `cryptos_enriquecido.csv` contiene el dataset unificados con variables extras calculados a partir de los datos originales como forma de enriquecer los datos y tener mas variables para poder entrenar nuestros modelos.
 
-Finalmente, el archivo `data_completo.csv` contiene el dataset enriquecido mas el calculo del *variable objetivo*. Con este dataset se realizara el analisis EDA y posterior modelado.
+El archivo `data_completo.csv` contiene el dataset enriquecido mas el calculo del *variable objetivo*. Con este dataset se realizara el analisis EDA y posterior modelado.
+
+Finalmente, los archivos `X_train`, `X_val`, `X_test`, `y_train`, `y_val` y `y_test` son particiones del dataset `data_completo.csv` preparados para el entrenamiendo, validacion y posterior pueba de los modelos.
