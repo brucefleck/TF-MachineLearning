@@ -7,7 +7,6 @@ Este es el repositorio del trabajo final para el curso MACHINE LEARNING
 
 ## Informe TRABAJO FINAL
 `Julio 2025`
-Integrantes - Grupo
 - Bruce Matias Fleck Ojeda: U20211E803
 - Luciano Valentino Achin Angeles: u202113624
 - Gonzalo Benjamin Huaranga Blanco: U202119611
