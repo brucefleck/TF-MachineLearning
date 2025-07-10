@@ -1,17 +1,15 @@
 ﻿# TF-MachineLearning
 
 Este es el repositorio del trabajo final para el curso MACHINE LEARNING
-CURSO DE MACHINE LEARNING
-SECCION: 1ACC0057
-DOCENTE: Jairo Pinedo Taquia
+## CURSO DE MACHINE LEARNING
+### SECCION: 1ACC0057
+### DOCENTE: Jairo Pinedo Taquia
 
-Informe TRABAJO FINAL
-Julio 2025
+## Informe TRABAJO FINAL
+`Julio 2025`
 Integrantes - Grupo
-Codigo
-Nombre y apellidos
-Bruce Matias Fleck Ojeda: U20211E803
-Luciano Valentino Achin Angeles: u202113624
-Gonzalo Benjamin Huaranga Blanco: U202119611
+- Bruce Matias Fleck Ojeda: U20211E803
+- Luciano Valentino Achin Angeles: u202113624
+- Gonzalo Benjamin Huaranga Blanco: U202119611
 
 Este proyecto abarca ...
